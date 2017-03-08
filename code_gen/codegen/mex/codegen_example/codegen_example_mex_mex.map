@@ -1,0 +1,11 @@
+MEX {
+	global:
+		mexFunction;
+		emlrtMexFcnProperties;
+		codegen_example;
+		codegen_example_initialize;
+		codegen_example_terminate;
+		codegen_example_atexit;
+	local:
+		*;
+};
